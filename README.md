@@ -1,2 +1,2 @@
 # password-generator
-03 challenge
+02 challenge
